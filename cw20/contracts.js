@@ -163,6 +163,11 @@ module.exports = {
       name: "mAAPL-UST LP",
       icon: "https://raw.githubusercontent.com/Mirror-Protocol/whitelist/master/icon/AAPL.png",
     },
+    terra1w4hthuvkm9lakfss5m6pvsn3dsn0kt4dsyen6c3y3s93fdzd436s87f390: {
+      protocol: "Terraswap",
+      name: "CatWifHat-LUNA LP",
+      icon: "http://imgbox.com/VysRUiQq",
+    },
     terra1nffr0xa02j7hm7ay2x73fxd4y9cfjrxrt5chjl: {
       protocol: "Terraswap",
       name: "mGOOGL-UST Pair",

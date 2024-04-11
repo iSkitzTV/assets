@@ -438,6 +438,14 @@ module.exports = {
       icon: "https://raw.githubusercontent.com/LUNC-Warriors-NFT/cw20-token-assets/main/lwm_small.png",
       decimals: 6,
     },
+    terra1m58hc296srr6xygrrfyu6u0e32pl8d459nfs55pmegke8zlv94rqsjz882: {
+      protocol: "CatWifHat",
+      symbol: "CWH",
+      name: "CatWifHat",
+      token: "terra1m58hc296srr6xygrrfyu6u0e32pl8d459nfs55pmegke8zlv94rqsjz882",
+      icon: "http://imgbox.com/VysRUiQq",
+        decimals: 6,
+    },
     terra1j9q30fspe7tn0nrxpjfnzzdha4xfkyznluwnqrgxshtyv2tfe5kswnrj6c: {
       protocol: "LUNC Warriors NFT",
       symbol: "LUNW",
